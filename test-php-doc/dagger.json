@@ -1,0 +1,5 @@
+{
+  "name": "test-php-doc",
+  "sdk": "github.com/charjr/dagger/sdk/php@add-doc-attribute",
+  "engineVersion": "v0.13.0"
+}
